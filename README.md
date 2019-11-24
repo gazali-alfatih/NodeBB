@@ -33,7 +33,7 @@ NodeBB's theming engine is highly flexible and does not restrict your design cho
 Our minimalist "Persona" theme gets you going right away, no coding experience required.
 
 [![](http://i.imgur.com/HwNEXGu.png)](http://i.imgur.com/HwNEXGu.png)
-[![](http://i.imgur.com/II1byYs.png)](http://i.imgur.com/II1byYs.png)
+[![](http://i.imgur.com/II1byYs.png)](http://i.imgur.com/II1byYs.png) [![Greenkeeper badge](https://badges.greenkeeper.io/gazali-alfatih/NodeBB.svg)](https://greenkeeper.io/)
 
 
 
